@@ -1,0 +1,8 @@
+destination: public
+exclude:
+- Gemfile
+- Gemfile.lock
+- "/tmp/"
+- config.ru
+- LICENSE
+- README.md
